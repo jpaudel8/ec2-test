@@ -1,0 +1,9 @@
+body { font-family: system-ui, sans-serif; background: #12141a; color: #e6e8ee;
+       display: grid; place-items: center; min-height: 100vh; margin: 0; }
+main { text-align: center; padding: 2rem; }
+h1 { font-weight: 600; margin-bottom: .25rem; }
+.tag { color: #7d8496; font-size: .85rem; }
+table { margin: 1.5rem auto; border-collapse: collapse; }
+th, td { padding: .5rem 1rem; border-bottom: 1px solid #262a35; text-align: left; }
+th { color: #7d8496; font-weight: 500; }
+td { font-family: ui-monospace, monospace; color: #6ee7a8; }
